@@ -9,4 +9,9 @@ public class Dream {
 		currStatus++;
 	}
 	
+	// handg 메소드 추가
+	public void downStatus() {
+		currStatus--;
+	}
+	
 }
