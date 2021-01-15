@@ -1,0 +1,12 @@
+public class Dream {
+	
+	static final int MAX_GOAL = 100;
+	
+	int goal = MAX_GOAL;
+	int currStatus = 0;
+	
+	public void upStatus() {
+		currStatus++;
+	}
+	
+}
